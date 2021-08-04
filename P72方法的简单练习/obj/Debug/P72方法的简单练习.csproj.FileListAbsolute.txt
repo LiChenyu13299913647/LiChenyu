@@ -1,0 +1,7 @@
+D:\程序练习1\P72方法的简单练习\bin\Debug\P72方法的简单练习.exe.config
+D:\程序练习1\P72方法的简单练习\bin\Debug\P72方法的简单练习.exe
+D:\程序练习1\P72方法的简单练习\bin\Debug\P72方法的简单练习.pdb
+D:\程序练习1\P72方法的简单练习\obj\Debug\P72方法的简单练习.csproj.AssemblyReference.cache
+D:\程序练习1\P72方法的简单练习\obj\Debug\P72方法的简单练习.csproj.CoreCompileInputs.cache
+D:\程序练习1\P72方法的简单练习\obj\Debug\P72方法的简单练习.exe
+D:\程序练习1\P72方法的简单练习\obj\Debug\P72方法的简单练习.pdb

@@ -1,0 +1,7 @@
+D:\程序练习1\P67结构练习\bin\Debug\P67结构练习.exe.config
+D:\程序练习1\P67结构练习\bin\Debug\P67结构练习.exe
+D:\程序练习1\P67结构练习\bin\Debug\P67结构练习.pdb
+D:\程序练习1\P67结构练习\obj\Debug\P67结构练习.csproj.AssemblyReference.cache
+D:\程序练习1\P67结构练习\obj\Debug\P67结构练习.csproj.CoreCompileInputs.cache
+D:\程序练习1\P67结构练习\obj\Debug\P67结构练习.exe
+D:\程序练习1\P67结构练习\obj\Debug\P67结构练习.pdb

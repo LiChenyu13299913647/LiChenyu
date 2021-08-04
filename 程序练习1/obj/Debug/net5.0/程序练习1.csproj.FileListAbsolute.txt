@@ -1,0 +1,16 @@
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\bin\Debug\net5.0\程序练习1.exe
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\bin\Debug\net5.0\程序练习1.deps.json
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\bin\Debug\net5.0\程序练习1.runtimeconfig.json
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\bin\Debug\net5.0\程序练习1.runtimeconfig.dev.json
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\bin\Debug\net5.0\程序练习1.dll
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\bin\Debug\net5.0\ref\程序练习1.dll
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\bin\Debug\net5.0\程序练习1.pdb
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\obj\Debug\net5.0\程序练习1.csproj.AssemblyReference.cache
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\obj\Debug\net5.0\程序练习1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\obj\Debug\net5.0\程序练习1.AssemblyInfoInputs.cache
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\obj\Debug\net5.0\程序练习1.AssemblyInfo.cs
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\obj\Debug\net5.0\程序练习1.csproj.CoreCompileInputs.cache
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\obj\Debug\net5.0\程序练习1.dll
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\obj\Debug\net5.0\ref\程序练习1.dll
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\obj\Debug\net5.0\程序练习1.pdb
+C:\Users\LICHENYU\source\repos\程序练习1\程序练习1\obj\Debug\net5.0\程序练习1.genruntimeconfig.cache

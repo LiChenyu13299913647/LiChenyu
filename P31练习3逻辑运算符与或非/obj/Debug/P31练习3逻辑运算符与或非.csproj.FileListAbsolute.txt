@@ -1,0 +1,6 @@
+D:\程序练习1\P31练习3逻辑运算符与或非\bin\Debug\P31练习3逻辑运算符与或非.exe.config
+D:\程序练习1\P31练习3逻辑运算符与或非\bin\Debug\P31练习3逻辑运算符与或非.exe
+D:\程序练习1\P31练习3逻辑运算符与或非\bin\Debug\P31练习3逻辑运算符与或非.pdb
+D:\程序练习1\P31练习3逻辑运算符与或非\obj\Debug\P31练习3逻辑运算符与或非.csproj.CoreCompileInputs.cache
+D:\程序练习1\P31练习3逻辑运算符与或非\obj\Debug\P31练习3逻辑运算符与或非.exe
+D:\程序练习1\P31练习3逻辑运算符与或非\obj\Debug\P31练习3逻辑运算符与或非.pdb

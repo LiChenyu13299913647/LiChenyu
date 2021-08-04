@@ -1,0 +1,7 @@
+D:\程序练习1\P43while循环练习1\bin\Debug\P43while循环练习1.exe.config
+D:\程序练习1\P43while循环练习1\bin\Debug\P43while循环练习1.exe
+D:\程序练习1\P43while循环练习1\bin\Debug\P43while循环练习1.pdb
+D:\程序练习1\P43while循环练习1\obj\Debug\P43while循环练习1.csproj.AssemblyReference.cache
+D:\程序练习1\P43while循环练习1\obj\Debug\P43while循环练习1.csproj.CoreCompileInputs.cache
+D:\程序练习1\P43while循环练习1\obj\Debug\P43while循环练习1.exe
+D:\程序练习1\P43while循环练习1\obj\Debug\P43while循环练习1.pdb

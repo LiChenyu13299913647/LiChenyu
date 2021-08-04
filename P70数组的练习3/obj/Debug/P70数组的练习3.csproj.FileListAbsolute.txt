@@ -1,0 +1,7 @@
+D:\程序练习1\P70数组的练习3\bin\Debug\P70数组的练习3.exe.config
+D:\程序练习1\P70数组的练习3\bin\Debug\P70数组的练习3.exe
+D:\程序练习1\P70数组的练习3\bin\Debug\P70数组的练习3.pdb
+D:\程序练习1\P70数组的练习3\obj\Debug\P70数组的练习3.csproj.AssemblyReference.cache
+D:\程序练习1\P70数组的练习3\obj\Debug\P70数组的练习3.csproj.CoreCompileInputs.cache
+D:\程序练习1\P70数组的练习3\obj\Debug\P70数组的练习3.exe
+D:\程序练习1\P70数组的练习3\obj\Debug\P70数组的练习3.pdb

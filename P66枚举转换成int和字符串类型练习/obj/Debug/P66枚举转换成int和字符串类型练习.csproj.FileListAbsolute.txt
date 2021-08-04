@@ -1,0 +1,7 @@
+D:\程序练习1\P66枚举转换成int和字符串类型练习\bin\Debug\P66枚举转换成int和字符串类型练习.exe.config
+D:\程序练习1\P66枚举转换成int和字符串类型练习\bin\Debug\P66枚举转换成int和字符串类型练习.exe
+D:\程序练习1\P66枚举转换成int和字符串类型练习\bin\Debug\P66枚举转换成int和字符串类型练习.pdb
+D:\程序练习1\P66枚举转换成int和字符串类型练习\obj\Debug\P66枚举转换成int和字符串类型练习.csproj.AssemblyReference.cache
+D:\程序练习1\P66枚举转换成int和字符串类型练习\obj\Debug\P66枚举转换成int和字符串类型练习.csproj.CoreCompileInputs.cache
+D:\程序练习1\P66枚举转换成int和字符串类型练习\obj\Debug\P66枚举转换成int和字符串类型练习.exe
+D:\程序练习1\P66枚举转换成int和字符串类型练习\obj\Debug\P66枚举转换成int和字符串类型练习.pdb
