@@ -1,0 +1,16 @@
+D:\repos\程序练习1\bin\Debug\net5.0\P15程序练习1.exe
+D:\repos\程序练习1\bin\Debug\net5.0\P15程序练习1.deps.json
+D:\repos\程序练习1\bin\Debug\net5.0\P15程序练习1.runtimeconfig.json
+D:\repos\程序练习1\bin\Debug\net5.0\P15程序练习1.runtimeconfig.dev.json
+D:\repos\程序练习1\bin\Debug\net5.0\P15程序练习1.dll
+D:\repos\程序练习1\bin\Debug\net5.0\ref\P15程序练习1.dll
+D:\repos\程序练习1\bin\Debug\net5.0\P15程序练习1.pdb
+D:\repos\程序练习1\obj\Debug\net5.0\P15程序练习1.csproj.AssemblyReference.cache
+D:\repos\程序练习1\obj\Debug\net5.0\P15程序练习1.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\程序练习1\obj\Debug\net5.0\P15程序练习1.AssemblyInfoInputs.cache
+D:\repos\程序练习1\obj\Debug\net5.0\P15程序练习1.AssemblyInfo.cs
+D:\repos\程序练习1\obj\Debug\net5.0\P15程序练习1.csproj.CoreCompileInputs.cache
+D:\repos\程序练习1\obj\Debug\net5.0\P15程序练习1.dll
+D:\repos\程序练习1\obj\Debug\net5.0\ref\P15程序练习1.dll
+D:\repos\程序练习1\obj\Debug\net5.0\P15程序练习1.pdb
+D:\repos\程序练习1\obj\Debug\net5.0\P15程序练习1.genruntimeconfig.cache

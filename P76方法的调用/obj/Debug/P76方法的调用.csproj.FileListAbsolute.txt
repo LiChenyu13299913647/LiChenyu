@@ -1,0 +1,7 @@
+D:\repos\P76方法的调用\bin\Debug\P76方法的调用.exe.config
+D:\repos\P76方法的调用\bin\Debug\P76方法的调用.exe
+D:\repos\P76方法的调用\bin\Debug\P76方法的调用.pdb
+D:\repos\P76方法的调用\obj\Debug\P76方法的调用.csproj.AssemblyReference.cache
+D:\repos\P76方法的调用\obj\Debug\P76方法的调用.csproj.CoreCompileInputs.cache
+D:\repos\P76方法的调用\obj\Debug\P76方法的调用.exe
+D:\repos\P76方法的调用\obj\Debug\P76方法的调用.pdb

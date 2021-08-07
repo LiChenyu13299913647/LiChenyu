@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P70数组的练习3", "P70�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P72方法的简单练习", "P72方法的简单练习\P72方法的简单练习.csproj", "{7409C58E-40AA-489D-9DF1-48DB98F53024}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P76方法的调用", "P76方法的调用\P76方法的调用.csproj", "{22D23044-2A45-4475-99FF-AD9700A59247}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{7409C58E-40AA-489D-9DF1-48DB98F53024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7409C58E-40AA-489D-9DF1-48DB98F53024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7409C58E-40AA-489D-9DF1-48DB98F53024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D23044-2A45-4475-99FF-AD9700A59247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D23044-2A45-4475-99FF-AD9700A59247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D23044-2A45-4475-99FF-AD9700A59247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D23044-2A45-4475-99FF-AD9700A59247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

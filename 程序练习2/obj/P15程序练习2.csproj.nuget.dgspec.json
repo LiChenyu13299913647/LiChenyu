@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\程序练习1\\程序练习2\\P15程序练习2.csproj": {}
+    "D:\\repos\\程序练习2\\P15程序练习2.csproj": {}
   },
   "projects": {
-    "D:\\程序练习1\\程序练习2\\P15程序练习2.csproj": {
+    "D:\\repos\\程序练习2\\P15程序练习2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\程序练习1\\程序练习2\\P15程序练习2.csproj",
+        "projectUniqueName": "D:\\repos\\程序练习2\\P15程序练习2.csproj",
         "projectName": "P15程序练习2",
-        "projectPath": "D:\\程序练习1\\程序练习2\\P15程序练习2.csproj",
-        "packagesPath": "C:\\Users\\li_chenyu\\.nuget\\packages\\",
-        "outputPath": "D:\\程序练习1\\程序练习2\\obj\\",
+        "projectPath": "D:\\repos\\程序练习2\\P15程序练习2.csproj",
+        "packagesPath": "C:\\Users\\LICHENYU\\.nuget\\packages\\",
+        "outputPath": "D:\\repos\\程序练习2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "F:\\VS\\VS_COMMON\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\li_chenyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LICHENYU\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
