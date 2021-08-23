@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\P19练习2\\P19练习2.csproj": {}
+    "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P19练习2\\P19练习2.csproj": {}
   },
   "projects": {
-    "D:\\repos\\P19练习2\\P19练习2.csproj": {
+    "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P19练习2\\P19练习2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\P19练习2\\P19练习2.csproj",
+        "projectUniqueName": "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P19练习2\\P19练习2.csproj",
         "projectName": "P19练习2",
-        "projectPath": "D:\\repos\\P19练习2\\P19练习2.csproj",
+        "projectPath": "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P19练习2\\P19练习2.csproj",
         "packagesPath": "C:\\Users\\LICHENYU\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\P19练习2\\obj\\",
+        "outputPath": "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P19练习2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\VS\\VS_COMMON\\NuGetPackages"

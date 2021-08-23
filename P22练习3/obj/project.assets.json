@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\P22练习3\\P22练习3.csproj",
+      "projectUniqueName": "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P22练习3\\P22练习3.csproj",
       "projectName": "P22练习3",
-      "projectPath": "D:\\repos\\P22练习3\\P22练习3.csproj",
+      "projectPath": "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P22练习3\\P22练习3.csproj",
       "packagesPath": "C:\\Users\\LICHENYU\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\P22练习3\\obj\\",
+      "outputPath": "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P22练习3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\VS\\VS_COMMON\\NuGetPackages"

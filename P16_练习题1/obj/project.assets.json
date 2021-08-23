@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\P16_练习题1\\P16_练习题1.csproj",
+      "projectUniqueName": "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P16_练习题1\\P16_练习题1.csproj",
       "projectName": "P16_练习题1",
-      "projectPath": "D:\\repos\\P16_练习题1\\P16_练习题1.csproj",
+      "projectPath": "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P16_练习题1\\P16_练习题1.csproj",
       "packagesPath": "C:\\Users\\LICHENYU\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\P16_练习题1\\obj\\",
+      "outputPath": "C:\\Users\\LICHENYU\\Source\\Repos\\LiChenyu\\P16_练习题1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\VS\\VS_COMMON\\NuGetPackages"
